@@ -3,10 +3,9 @@
 #include <stdio.h>
 /*
  * main - Entry point
- * Description: 'Check if the number is positive, negative or zero'
+ *
  * Return: Always 0 (Success)
  */
-
 int main(void)
 {
 	int n;
