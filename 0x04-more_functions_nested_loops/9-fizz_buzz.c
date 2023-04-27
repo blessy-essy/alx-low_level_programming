@@ -3,9 +3,12 @@
 
 /**
  * main - entry point
+ *
  * Description: prints the numbers from 1 - 100
  * print Fizz for multiples of 3, and Buzz for multiples of 5
  * and for multiples of both 3 and 5 print FizzBuzz
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
